@@ -1,0 +1,8 @@
+data preprocessing using data normalizationa and discretization - min max, z, decimal scaling  and binning, clustering, histogram(interval)
+implementation of naive bayes algorithm for classification - manual naive bayes
+execution of data mining algorithm using rapidminer - logistic, decision tree, naive bayes, random forest
+implementation of k means clustering algorithm - result repeatability and spherical clusters only
+KNN - new data can be added, d - large dataset not allowed and high dimensionality, time consuming , sensitive to outliers
+azure ml studio
+azure ml studio
+knime
